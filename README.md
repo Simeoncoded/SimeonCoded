@@ -3,10 +3,10 @@
 Hey there! I'm Simeon, a passionate full-stack software engineer on a journey to craft exceptional digital experiences. With a solid foundation in C#, MySQL React, and JavaScript, I thrive on building dynamic web applications that leave a lasting impression. My tech arsenal includes C#, JavaScript, and MySQL, empowering me to architect robust solutions from front to back.
 
 ## Skills and Experience
-. 👨‍💻 C# 
-. ⚛️ REACT 
-. 🔥 JS, WEB 
-. 📘 MySQL 
+* 👨‍💻 C# 
+* ⚛️ REACT 
+* 🔥 JS, WEB 
+* 📘 MySQL 
 
 - 🔭 I’m currently working on Adding more skills 
 
