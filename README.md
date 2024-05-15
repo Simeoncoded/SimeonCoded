@@ -16,4 +16,4 @@ Hey there! I'm Simeon, a passionate full-stack software engineer on a journey to
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SimeonCoded)](https://github.com/anuraghazra/github-readme-stats)
 
 
-https://github-readme-tech-stack.vercel.app/api/cards?title=My+Tech+Arsenal&fontSize=16&lineCount=1
+
