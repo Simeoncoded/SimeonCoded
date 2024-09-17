@@ -3,7 +3,7 @@
 Hey there! I'm Simeon, a passionate full-stack software engineer on a journey to craft exceptional digital experiences. With a solid foundation in C#, MySQL, React, and JavaScript, I thrive on building dynamic web applications and API's that leave a lasting impression. My tech arsenal includes C#, JavaScript, and MySQL, empowering me to architect robust solutions from front to back. I JUST LOVE SOLVING PROBLEMS:)
 
 ## Skills and Experience
-[![My Skills](https://skillicons.dev/icons?i=cs,mysql,nodejs,aws,azure,mongodb,react,npm,git,github,js,html,css&perline=4)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cs,asp.net,mysql,nodejs,aws,azure,mongodb,react,npm,git,github,js,html,css&perline=4)](https://skillicons.dev)
   
 
 
