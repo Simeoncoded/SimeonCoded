@@ -1,3 +1,4 @@
+![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FSimeoncoded&countColor=%23263759)
 # Hi there 👋, I'm Simeon
 ### Software Development
 Hey there! I'm Simeon, a passionate full-stack software developer on a journey to craft exceptional digital experiences. With a solid foundation in C#,.Net frameworks,Databases:Sqlite,MSQL,MySql. React, and JavaScript, I thrive on building dynamic web applications and API's that leave a lasting impression. My tech arsenal includes C#,.NET,JavaScript, and Databases:Sqlite,MSQL,MySql, empowering me to architect robust solutions from front to back. I JUST LOVE SOLVING PROBLEMS:)
